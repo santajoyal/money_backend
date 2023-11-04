@@ -8,7 +8,7 @@ require("dotenv").config();
 
 app.use(
   cors({
-    orgin: "https://lively-tarsier-82ff10.netlify.app",
+    orgin: "https://super-dodol-2ed71f.netlify.app",
   })
 );
 app.use(express.json());
